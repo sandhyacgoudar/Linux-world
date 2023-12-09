@@ -1,0 +1,6 @@
+echo "Hello world!"
+n=10
+if [ $n > 5 ]
+then 
+    echo "Result Found"
+fi
