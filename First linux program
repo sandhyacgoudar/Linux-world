@@ -1,0 +1,6 @@
+$cat fortest.sh
+for x in 1 3 5 7
+do
+echo "The value of x is:$x"
+done
+$
